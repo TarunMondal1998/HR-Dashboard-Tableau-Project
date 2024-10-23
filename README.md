@@ -20,3 +20,8 @@ Drill-down views for education vs. performance and location-based employee data
 Enabled HR stakeholders to monitor workforce trends, analyze performance by education level, and identify salary distribution across different age groups and roles.
 
 ## View of the dashboard
+**Overview Page:**
+![HR Summary (1)](https://github.com/user-attachments/assets/16a1b86c-aacf-4a90-9a5f-d7840676d552)
+
+**Employee Details:**
+![HR Deatils](https://github.com/user-attachments/assets/3c0de7b5-ec8e-4680-9d5d-a1dce283bc28)
